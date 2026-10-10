@@ -149,6 +149,6 @@ I want to be upfront about what this project does and does not show. The full di
 ## Author
 
 **Lohitashva V.S**, B.Tech, Electronics and Communication Engineering (Data Science specialisation), SRM Institute of Science and Technology, Vadapalani.
-📧 `your.email@example.com` · 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
 
 Released under the [MIT License](LICENSE).
